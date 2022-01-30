@@ -1,5 +1,5 @@
-# OLX
-A basic working site like OLX
+# Online Book Portal
+A basic working site like Book Portal
 Instructions to make it working
 1. Clone the repository in your web server directory
 2. Create a database named 'olx' or any other of your choice
